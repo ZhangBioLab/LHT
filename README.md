@@ -1,5 +1,4 @@
 # LHT
-The code used in the paper "Selenium metabolism and selenoproteins are largely unexplored in bacteria"
 This repository repository is used for processing and analyzing a bioinformatics study on selenium metabolism, selenoproteins, and their evolutionary patterns in bacteria. 
 It includes exploring the occurrence of different selenium metabolic pathways in bacteria, providing the most detailed understanding of bacterial selenium utilization to date; 
 predicting and identifying new bacterial selenium metabolic pathways and related genes; 
